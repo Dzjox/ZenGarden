@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4182BC79-4A90-0967-E0C9-4D85C89991AF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ZenGarden",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
